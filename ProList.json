@@ -2052,6 +2052,72 @@
             "uid": 76561199682039845,
             "name": "牢章",
             "level": 1
+        },
+        {
+            "uid": 76561198160016805,
+            "name": "卡莎",
+            "level": 1
+        },
+        {
+            "uid": 76561198986772302,
+            "name": "TSMgent",
+            "level": 1
+        },
+        {
+            "uid": 76561198796470740,
+            "name": "SkittleCakes",
+            "level": 1
+        },
+        {
+            "uid": 76561198154679660,
+            "name": "sauceror",
+            "level": 1
+        },
+        {
+            "uid": 76561198153689895,
+            "name": "EXO KSWINNIIE",
+            "level": 1
+        },
+        {
+            "uid": 76561198843836827,
+            "name": "EXO arctic",
+            "level": 1
+        },
+        {
+            "uid": 76561198037010735,
+            "name": "S8UL Sharky",
+            "level": 1
+        },
+        {
+            "uid": 76561199192541383,
+            "name": "S8UL Jesko",
+            "level": 1
+        },
+        {
+            "uid": 76561198022005974,
+            "name": "S8UL Legacy",
+            "level": 1
+        },
+        {
+            "uid": 76561198453037303,
+            "name": "twitch.tv/3TrixX",
+            "level": 1
+        },
+        {
+            "uid": 76561197998701542,
+            "name": "COL KIMCHILEE Pro&主播",
+            "level": 1
+        },
+        {
+            "uid": 76561197993450024,
+            "name": "MaTaFe 前职业",
+            "level": 1
+        },
+        {
+            "uid": 76561199205105542,
+            "name": "kn_volzz",
+            "level": 1
         }
+        
     ]
 }
